@@ -35,7 +35,7 @@ Kelas              : [Kelas Mahasiswa]
 Mengetahui,  
 Dosen Pengampu
 <br><br><br><br><br>
-__________________________  
+
 Muhammad Davi, S.Kom., M.Cs.
 </div>
 
