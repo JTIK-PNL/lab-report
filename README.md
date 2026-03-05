@@ -13,7 +13,7 @@ Kelas              : [Kelas Mahasiswa]
 ### Program Studi Teknologi Rekayasa Komputer Jaringan
 ### Jurusan Teknologi Informasi dan Komputer
 ### Politeknik Negeri Lhokseumawe
-### 2025
+### 2026
 
 
 ---
